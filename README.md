@@ -37,5 +37,5 @@ wendrell o email que eu te passei e ganhe um dos maiores gdps Hub do mundo do mu
 <img width="447" height="447" alt="images (2)" src="https://github.com/user-attachments/assets/fc80f41d-cffb-495f-a682-71453f2cfff8" />
 <img width="256" height="256" alt="images (3)" src="https://github.com/user-attachments/assets/5fd9bc6d-9bed-4c9f-b876-1407b4a54503" />
 <img width="196" height="196" alt="download" src="https://github.com/user-attachments/assets/c39ba8f0-3cae-4b52-85df-0ef8dc154160" />
-# https
+# https://
 https://github.com/wendrelldceothestop-cmd/Gdps-1.2-download/releases/tag/TLC https://github.com/wendrelldceothestop-cmd/gdps-hub/releases/tag/Tag
