@@ -26,4 +26,4 @@ wendrell o email que eu te passei e ganhe um dos maiores gdps Hub do mundo do mu
 <img width="800" height="800" alt="unnamed" src="https://github.com/user-attachments/assets/5678fe8c-4edb-4605-abb8-eae3f73df0da" />
 <img width="200" height="200" alt="103219659" src="https://github.com/user-attachments/assets/aa7f17d9-58e4-4751-ab7f-b5c8b94213a3" />
 isso mesmo 👀<img width="2880" height="1620" alt="68747470733a2f2f676470736875622e636f6d2f6173736574732f6272616e642d6173736574732f62616e6e65722d332e706e67 (1)" src="https://github.com/user-attachments/assets/4e04fcd3-b57e-4370-a93e-791d454d0d98" />
-# geometry dash
+# geometry-dash
